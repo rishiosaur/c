@@ -5,9 +5,9 @@ using namespace std;
 int main () {
 
     // Code goes here
-    char x = 'x';
+    string a = "hello world!";
 
-    cout << x << endl;
+    cout << a << endl;
 
     return 0;
 }
